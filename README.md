@@ -1,4 +1,4 @@
-## Heya, my name is Anjanique M. I am currently learning my way through a tech bootcamp to become a 👩‍💻 full-stack web-developer/software engineer ☕️
+## Heya, my name is Anjanique M. I am currently learning my way through a tech bootcamp to become a 👩‍💻 full-stack web-developer ☕️
 
 Ever since early 2022, coding has been my passion, and it drives me to grow professionally and as a person. I have learned to be patient, and determined, 
 and to overcome my fear of failure. I have come to be able to explore my love for learning and problem solving in a way I have not had the chance to before. I enjoy
