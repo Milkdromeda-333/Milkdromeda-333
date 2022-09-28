@@ -12,6 +12,7 @@ Anyway, here are some technology that I have had the pleasure of exploring thus 
 - React ⚛️
 - Node.JS
 - Git & Github
+- API's             
 
 I'm hoping to find my dream career, writin code and making a difference. 
 
