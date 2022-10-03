@@ -14,7 +14,7 @@ Anyway, here are some technology that I have had the pleasure of exploring thus 
 - Git & Github
 - API's, JSON, & Postman             
 
-I'm hoping to find my dream career, writin code and making a difference. 
+I'm hoping to find my dream career, writin' code and makin' a difference. 
 
 > "Difficult does not mean impossible."
 
