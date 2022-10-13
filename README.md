@@ -9,10 +9,11 @@ Anyway, here are some technologies that I have had the pleasure of exploring thu
 - HTML/CSS
 - JavaScript
 - Bootstrap 🅱️
+- TailwindCSS 🌫️
 - React ⚛️
 - Node.JS
 - Git & Github
-- API's, JSON, & Postman             
+- API's, JSON, & Postman
 
 I'm hoping to find my dream career, writin' code and makin' a difference. 
 
