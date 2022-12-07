@@ -14,6 +14,8 @@ Anyway, here are some technologies that I have had the pleasure of exploring thu
 - Node.JS
 - Git & Github
 - API's, JSON, & Postman
+- Express
+- MongoDB + MongoDB Atlas
 
 I'm hoping to find my dream career, writin' code and makin' a difference. 
 
