@@ -1,28 +1,36 @@
-## Heya 💫 I am currently learning my way through a tech bootcamp to become a 👩‍💻 full-stack web-developer ☕️
-
-Ever since early 2022, coding has been my passion, and it drives me to grow professionally and as a person. I have learned to be patient, and determined, 
-and to overcome my fear of failure. I have come to be able to explore my love for learning and problem solving in a way I have not had the chance to before. I enjoy
-making cute and practical websites, knitting, reading, making pixel art, and thinking about outer space.
-
-Anyway, here are some technologies that I have had the pleasure of exploring thus far:
-
-- HTML/CSS
-- JavaScript
-- Bootstrap 🅱️
-- TailwindCSS 🌫️
-- React ⚛️
-- Node.JS
-- Git & Github
-- API's, JSON, & Postman
-- Express
-- MongoDB + MongoDB Atlas
-
-I'm hoping to find my dream career, writin' code and makin' a difference. 
-
-> "Difficult does not mean impossible."
-
-### ... Thanks for reading!
-
+<!-- ![Header](./header.gif) -->
+<div align="center">
+  
+ ![domo](./alldo-mo.gif) ![text decoration](./leafdrop.gif) ![angel](./M.angel010.gif) ![earth](./earthspin.gif) ![angel](./manswim_bf16.gif)
+  ## Hi, I'm Anjanique Mackey, and I'm a web developer
+![point](./Point04.gif) I love making cool stuff, and learning about cool stuff.
+  
+![point](./Point04.gif) I'm currently learning: Software Design and MongoDB
+  
+![point](./Point04.gif) My current projects include: \[[Potted Friends](https://github.com/Ze-Arcanist95/plant_database_group_project), [Wyld Photography Website](https://github.com/Milkdromeda-333/wyld-photography-website)\]
+  
+Technologies I've Used:
+(icons)
+  
+  
+![hr](./cookiehr.gif)
+  
+  ![about me](./about.gif)
+  
+![book](./readbook.gif) I'm currently reading:
+  
+  Do androids dream of electric sheep? by Phillip K. Dick 
+  
+  The practicing mind by Thomas M. Sterner
+  
+ ![point](./Point04.gif) Other Interests: Music, Reading, Old web, Science, Pixel art, Retro tech, Animation
+  
+Socials:
+(socials icons)
+%%To include my custom LinkedIn%%
+    
+![hr](./cookiehr.gif)
+</div>
 <!-- 
 - [] add my favorite projects/links that i want people to checkout
 
