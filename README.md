@@ -9,9 +9,9 @@
   
 ![point](./Point04.gif) My current projects include: \[[Potted Friends](https://github.com/Ze-Arcanist95/plant_database_group_project), [Wyld Photography Website](https://github.com/Milkdromeda-333/wyld-photography-website)\]
   
-Technologies I've Used:
-(icons)
+![point](./Point04.gif) My Toolbox: 
   
+  HTML & CSS, JavaScript, Tailwind.css, Bootstrap, Express.js, Node.js, MongoDB & Mongoose
   
 ![hr](./cookiehr.gif)
   
@@ -30,12 +30,9 @@ Technologies I've Used:
   Other Interests: 
   
   Music, Reading, Old web, Science, Pixel art, Retro tech, Animation
+ 
+ ![point](./Point04.gif) "Difficult does not mean impossible!" ![point](./Point04.gif)
   
- ![links](./linkschainam.gif)
-  
-(socials icons)
-%%To include my custom LinkedIn%%
-    
 ![hr](./cookiehr.gif)
 </div>
 <!-- 
