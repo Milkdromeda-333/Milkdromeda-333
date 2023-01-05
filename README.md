@@ -29,7 +29,7 @@
   
   Other Interests: 
   
-  Music, Reading, Old web, Science, Pixel art, Retro tech, Animation
+  Music, Old web, Science, Pixel art, Retro tech, Animation, Self-care/help, Retro-futurism
  
  ![point](./Point04.gif) "Difficult does not mean impossible!" ![point](./Point04.gif)
   
