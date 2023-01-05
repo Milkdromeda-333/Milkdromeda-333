@@ -17,15 +17,22 @@ Technologies I've Used:
   
   ![about me](./about.gif)
   
-![book](./readbook.gif) I'm currently reading:
+![book](./readbook.gif) 
+  
+  I'm currently reading:
   
   Do androids dream of electric sheep? by Phillip K. Dick 
   
   The practicing mind by Thomas M. Sterner
   
- ![point](./Point04.gif) Other Interests: Music, Reading, Old web, Science, Pixel art, Retro tech, Animation
+ ![cute cat in hammok](./swingham.gif) 
   
-Socials:
+  Other Interests: 
+  
+  Music, Reading, Old web, Science, Pixel art, Retro tech, Animation
+  
+ ![links](./linkschainam.gif)
+  
 (socials icons)
 %%To include my custom LinkedIn%%
     
