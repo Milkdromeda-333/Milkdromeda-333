@@ -23,8 +23,6 @@
   
   2001: A space odyssy by Author C. Clarke
   
-  The practicing mind by Thomas M. Sterner
-  
  ![cute cat in hammok](./swingham.gif) 
   
   Other Interests: 
