@@ -21,7 +21,7 @@
   
   I'm currently reading:
   
-  Do androids dream of electric sheep? by Phillip K. Dick 
+  2001: A space odyssy by Author C. Clarke
   
   The practicing mind by Thomas M. Sterner
   
