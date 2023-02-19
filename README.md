@@ -7,7 +7,7 @@
   
 ![point](./Point04.gif) I'm currently learning: SQLite and MongoDB!
   
-![point](./Point04.gif) My current projects include: \[[Potted Friends](https://github.com/Ze-Arcanist95/plant_database_group_project), [Wyld Photography Website](https://github.com/Milkdromeda-333/wyld-photography-website), [Trollman Game](https://github.com/Milkdromeda-333/trollman-game)\]
+![point](./Point04.gif) My current projects include: \[[Opinionist]([https://github.com/Ze-Arcanist95/plant_database_group_project](https://github.com/Milkdromeda-333/rock-the-vote)), [My Portfolio]([https://github.com/Milkdromeda-333/wyld-photography-website](https://github.com/Milkdromeda-333/portfolio))
   
 ![point](./Point04.gif) My Toolbox: 
   
