@@ -7,7 +7,7 @@
   
 ![point](./Point04.gif) I'm currently learning: Authentication and MongoDB!
   
-![point](./Point04.gif) My current projects include: \[[Opinionist](https://github.com/Milkdromeda-333/rock-the-vote), [My Portfolio]([https://github.com/Milkdromeda-333/wyld-photography-website](https://github.com/Milkdromeda-333/portfolio))]
+![point](./Point04.gif) My current projects include: \[[Opinionist](https://github.com/Milkdromeda-333/rock-the-vote), [My Portfolio](https://github.com/Milkdromeda-333/portfolio))]
   
 ![point](./Point04.gif) My Toolbox: 
   
