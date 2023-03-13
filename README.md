@@ -3,11 +3,11 @@
   
  ![domo](./alldo-mo.gif) ![text decoration](./leafdrop.gif) ![angel](./M.angel010.gif) ![earth](./earthspin.gif) ![angel](./manswim_bf16.gif)
   ## Hi, I'm Anjanique Mackey, and I'm a web developer
-![point](./Point04.gif) I love making cool stuff, and learning about cool stuff.
+![point](./Point04.gif) I love making cool stuff, being creative, and coding.
   
-![point](./Point04.gif) I'm currently learning: SQLite and MongoDB!
+![point](./Point04.gif) I'm currently learning: Authentication and MongoDB!
   
-![point](./Point04.gif) My current projects include: \[[Opinionist]([https://github.com/Ze-Arcanist95/plant_database_group_project](https://github.com/Milkdromeda-333/rock-the-vote)), [My Portfolio]([https://github.com/Milkdromeda-333/wyld-photography-website](https://github.com/Milkdromeda-333/portfolio))
+![point](./Point04.gif) My current projects include: \[[Opinionist](https://github.com/Milkdromeda-333/rock-the-vote), [My Portfolio]([https://github.com/Milkdromeda-333/wyld-photography-website](https://github.com/Milkdromeda-333/portfolio))]
   
 ![point](./Point04.gif) My Toolbox: 
   
