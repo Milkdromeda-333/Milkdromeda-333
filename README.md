@@ -11,7 +11,7 @@
   
 ![point](./Point04.gif) My Toolbox: 
   
-  HTML & CSS, JavaScript, Tailwind.css, Bootstrap, Express.js, Node.js, MongoDB & Mongoose
+  HTML & CSS, JavaScript, Tailwind.css, SASS, Express.js, Node.js, MongoDB & Mongoose
   
 ![hr](./cookiehr.gif)
   
