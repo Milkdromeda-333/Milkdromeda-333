@@ -20,7 +20,7 @@ My Toolbox:
   
   I'm currently reading:
   
-  Hyperion by Dan Simmons
+  To say nothing of the dog by Connie Willis
   
  ![cute cat in hammok](./swingham.gif) 
  
