@@ -10,7 +10,7 @@
   
 I'm currently learning: SASS and Advanced React!
   
-My current projects include: \[[My Portfolio](https://github.com/Milkdromeda-333/portfolio)]
+My current projects include: []
   
 My Toolbox: 
   
