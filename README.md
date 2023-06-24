@@ -8,7 +8,7 @@
   
  I love making cool stuff, being creative, and coding. 
   
-My current projects include: [Task Hacker, Online Clock]
+My current projects include: ["Task Hacker", "Online Clock"]
   
 My Toolbox: 
   
