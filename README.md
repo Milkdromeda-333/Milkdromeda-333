@@ -8,9 +8,7 @@
   
  I love making cool stuff, being creative, and coding. 
   
-I'm currently learning: SASS and Advanced React!
-  
-My current projects include: []
+My current projects include: [Task Hacker, Online Clock]
   
 My Toolbox: 
   
