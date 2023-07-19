@@ -27,10 +27,11 @@
  If you wanna chat my socials are linked in my bio!
 
  Otherwise, enjoy my codes.
-  
-with sincerity, 
+   
+With sincerity, 
 
  Anjanique Mackey ~ 
+ 
 <div align="center">
  
  ![cute cat in hammok](./swingham.gif) 
