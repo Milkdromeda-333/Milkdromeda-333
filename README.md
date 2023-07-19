@@ -2,29 +2,43 @@
 <div align="center">
   
  ![domo](./alldo-mo.gif) ![text decoration](./leafdrop.gif) ![angel](./M.angel010.gif) ![earth](./earthspin.gif) ![angel](./manswim_bf16.gif)
-  ## Hi, I'm Anjanique Mackey, and I'm a web developer
+
+</div>
+
+ Dear vistor,
+ 
+ It's cool to think that you're visiting here. I hope your day has gone well, and I hope mine did, too.
+ 
+ If you wanna know about me before speaking to me, here's what's to know:
+
+ I am very open-minded, 
+ 
+ in love with the mysterious, and my husband, 
+ 
+ favorite color is purple.. or is it brown? Anyway, I'd rather color combinations over single colors (brown/blue/green, pink/brown, red/yellow/blue, etc)
+ ,
+ 
+ I love to read (can you guess my favorite genre?),
+ 
+ I love to learn neat stuff.
+ 
+ and most obviously, I like 2 code :)
+
+ If you wanna chat my socials are linked in my bio!
+
+ Otherwise, enjoy my codes.
   
-![hr](./cookiehr.gif)
-  
- I love making cool stuff, being creative, and coding. 
-  
-My current projects include: ["Task Hacker", "Online Clock"]
-  
-My Toolbox: 
-  
-  HTML & CSS, JavaScript, Tailwind.css, SASS, Express.js, Node.js, MongoDB & Mongoose
-  
-![book](./readbook.gif) 
-  
-  I'm currently reading:
-  
-  To say nothing of the dog by Connie Willis
-  
+with sincerity, 
+
+ Anjanique Mackey ~ 
+<div align="center">
+ 
  ![cute cat in hammok](./swingham.gif) 
  
  ![point](./Point04.gif) "Difficult does not mean impossible!" ![point](./Point04.gif)
-  
-</div>
+ 
+![hr](./cookiehr.gif)
+  </div>
 <!-- 
 - [] add my favorite projects/links that i want people to checkout
 
