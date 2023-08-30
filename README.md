@@ -45,9 +45,7 @@
   <br/>
   <br/>
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milkdromeda-333&show_icons=true&locale=en" alt="milkdromeda-333" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milkdromeda-333&" alt="milkdromeda-333" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milkdromeda-333&show_icons=true&locale=en&theme=cobalt" alt="milkdromeda-333" /></p>
  
  ### ![point](./Point04.gif) "Difficult does not mean impossible!" ![point](./Point04.gif)
   
