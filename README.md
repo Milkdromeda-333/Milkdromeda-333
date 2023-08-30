@@ -40,7 +40,11 @@
           
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" title="html" alt="html" width=50 height=50 width=50 height=50 />
   </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milkdromeda-333&show_icons=true&locale=en&layout=compact" alt="milkdromeda-333" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milkdromeda-333&show_icons=true&locale=en" alt="milkdromeda-333" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milkdromeda-333&" alt="milkdromeda-333" /></p>
   <br/>
   <br/>
   <br/>
