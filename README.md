@@ -7,7 +7,7 @@
  
 <div align="center">
  
- ![cute cat in hammok](./swingham.gif) 
+ <!-- ![cute cat in hammok](./swingham.gif) -->
 
   Technologies I have learned (in reverse order!)
   
