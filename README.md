@@ -15,7 +15,9 @@
   
   <!--https://devicon.dev/-->
 
-  
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="php" alt="php" width=50 height=50 />
+            
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" title="nextjs" alt="nextjs" width=50 height=50 />
           
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" title="handlebars" alt="handlebars" width=50 height=50 />
@@ -45,7 +47,9 @@
   <br/>
   <br/>
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milkdromeda-333&show_icons=true&locale=en&theme=cobalt" alt="milkdromeda-333" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milkdromeda-333&show_icons=true&locale=en&theme=cobalt" alt="milkdromeda-333" /></p> -->
+                                                                                                                                                                        
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milkdromeda-333&layout=compact&hide=python,ejs&theme=cobalt)
  
  ### ![point](./Point04.gif) "Difficult does not mean impossible!" ![point](./Point04.gif)
  <img src="https://64.media.tumblr.com/c94c8323041f25ad8ff359ca19cb24be/tumblr_odiry4mNUZ1rzodufo1_400.gifv" alt="computer waterfall" />
