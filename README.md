@@ -54,14 +54,12 @@
  
  ### ![point](./Point04.gif) "Difficult does not mean impossible!" ![point](./Point04.gif)
 <!-- <img src="https://64.media.tumblr.com/c94c8323041f25ad8ff359ca19cb24be/tumblr_odiry4mNUZ1rzodufo1_400.gifv" alt="computer waterfall" /> -->
+<img src="https://64.media.tumblr.com/e17103229d5d752d1654b741cad66c48/81a545eb9adff405-2c/s100x200/efd88f1037678be464c1a7bfe439589313cb2e87.gifv" alt="candy cane" />
+<img src="https://64.media.tumblr.com/6cba9f61509e989b49d70f6145a91c70/81a545eb9adff405-54/s100x200/601abe78cc0fbc801bf50a0c2c08c27363499477.gifv" alt="candy cane" />
+<img src="https://64.media.tumblr.com/49e97f278bf3e00f18cb09121e9ee01f/aa7d5f382b9c6532-d6/s250x400/925745c044b0b1be723028fbd34efc40d2dfc633.gifv" alt="candy cane" />
+<img src="https://64.media.tumblr.com/d1aa90bacc00222be227f23f8a8c04dc/81a545eb9adff405-cd/s100x200/8578ec46d9928c5464ffc204d6bb9618f80721e1.gifv" alt="candy cane" />
+<img src="https://64.media.tumblr.com/86914b18e636d3f4ab7f80547bbfdf23/5ff074679dc75b88-62/s250x400/b4b97bcceb4c7a012905267cada3f9db7de8101f.gifv" alt="jingle bells" />
 
- <img src="https://64.media.tumblr.com/99948664edc2330933284a8c825eac54/025ced5ca01cf5ca-29/s100x200/22cca97025b7e7ddd1279d99d95c55b0a612befd.gifv" alt="pumpkin" />
-<img src="https://64.media.tumblr.com/884c0d476db44a5a4d06dc6ba0778565/025ced5ca01cf5ca-db/s100x200/e8f5f2df3cf8b89be3697b570139cf124215fe01.gifv" alt="pumpkin" />
-<img src="https://64.media.tumblr.com/756f0b50af8a9fcb07898b0c1177d81b/025ced5ca01cf5ca-07/s100x200/a4656f3307aae75e6f70aacb1f89d5955e58ab77.gifv" alt="pumpkin" />
-<img src="https://64.media.tumblr.com/5f461afb76c314ed49963f21f20724dd/025ced5ca01cf5ca-1e/s100x200/18f6f56dde8be9de3f971fa13bf1fbb43b108899.gifv" alt="pumpkin" />
-<img src="https://64.media.tumblr.com/1f4b3592890333b87d3e700a2e5cf3fb/025ced5ca01cf5ca-fb/s100x200/0efa9a9d106f0c5d50e012e54d2e9fcb469035cd.gifv" alt="pumpkin" />
-<img src="https://64.media.tumblr.com/0ce998d2461cf1fa0abc32ae23617cf5/025ced5ca01cf5ca-6e/s100x200/34b90ae52ae34aa8b3f709d9aa462e34ec7cae8a.gifv" alt="pumpkin" />
-  
 ![hr](./cookiehr.gif)
 
 </div>
