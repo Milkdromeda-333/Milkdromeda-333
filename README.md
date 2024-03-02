@@ -50,7 +50,9 @@
   
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milkdromeda-333&show_icons=true&locale=en&theme=cobalt" alt="milkdromeda-333" /></p> -->
                                                                                                                                                                         
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milkdromeda-333&layout=compact&hide=python,ejs&theme=cobalt)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milkdromeda-333&layout=compact&hide=python,ejs&theme=cobalt) -->
+<img src="https://d2w9rnfcy7mm78.cloudfront.net/23471435/original_ad9a03a6643f5a7b751865ab241ab13d.gif?1693919753" title="html" alt="html" width=200 height=200 width=50 height=50 />
+<img src="https://d2w9rnfcy7mm78.cloudfront.net/23471437/original_fbcea06c597cc995d017a4ff8a77b4ad.gif?1693919754" title="html" alt="html" width=200 height=200 width=50 height=50 />
  
  ### ![point](./Point04.gif) "Difficult does not mean impossible!" ![point](./Point04.gif)
 <!--Christmas gifs-->
